@@ -1,2 +1,2 @@
-# sonishs.github.io
-My Portfolio
+# TF Cascades
+Transcription factor (TF) cascades play an emerging role in various diseases, including cancer. Modulation of TF-driven activating cascades could have implications in developing personalized therapeutics in the setting of cancer care. In this study, we have generated a database of 81,488 Transcription Factor Cascades using 426 genes. We then performed a detailed exploratory data analysis (EDA) to understand the underlying patterns of the cascades. To identify and prioritize essential transcription factors in the cascades as drug targets, we calculated centrality measures using the theory of complex graphs after generating a graph representation of TF cascades. Finally, biological pathway and disease enrichment analysis of the TF-cascades helped to identify plausible biological mechanisms and disease associations from a database of 2 million data points.
